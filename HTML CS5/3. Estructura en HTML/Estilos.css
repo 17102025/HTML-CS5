@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+    /*este es un comentario*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(205, 50, 50);
+}
+h1, h2{
+text-align: center;
+}
+p{
+    color: rgb(0, 0, 186);
+    /*controlamos el tamaño de la letra*/
+    font-size: 15px;
+
+}
+
+div h2{
+    color: rgb(117, 188, 42);
+
+}
+
